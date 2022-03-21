@@ -1,0 +1,28 @@
+Recursos utilizados en este diseño:
+
+1: wireframe.cc: En el diseño web, un wireframe o un diagrama wireframe es 
+una representación visual en escala de grises de la estructura y funcionalidad 
+de una sola página web o pantalla de aplicación móvil. En este caso utilizamos
+la pagina wed wireframe.cc para crear nuestro diseño.
+
+2:BLINDTEXTGENERATOR: Generador de texto simulado lorem ipsun.
+
+3:PLACEHOLDER: Una página "placeholder" o de marcador es una página web temporal 
+subida por el diseñador web mientras que un sitio web permanente está en su etapa 
+de desarrollo. Los marcadores pueden ser de diseño simple o una página de marcador 
+más elaborada puede ser ofrecida por tu proveedor de "hosting" (alojamiento)
+
+4:https://www.bootstrapcdn.com/ y copiar la libreria html:
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" 
+rel="stylesheet" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" 
+crossorigin="anonymous"> 
+
+5: https://fontawesome.com/start o otro sitio wed de iconos.
+
+6:LIBRERIA JQUERY:Libreria con caracteristicas enriquecidas basadas en javascript. Permite
+leer de una forma estructurada todo el DOM Modelo de objetos del documento. cdn google se 
+llama la pagina y usar jquery 1.x snippet.
+
+7:LOREMPIXEL.COM: Sitio de recursos de imagenes aleatorias.
+
+8: FUENTES GOOGLE FONTS: Tipos de letras.
