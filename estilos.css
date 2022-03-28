@@ -129,7 +129,7 @@ th, td{
 /*Efecto trinagulo lateral*/
 .trinagulo_lateral {
     border: 1px solid;
-    -webkit-transform: translateX(0);/* transform: Aplica una o varias funciones de transformación sobre un elemento y translateX:Traslada el elemento una distancia de Tamaño x horizontalmente no se mueve el elemento*/
+    /*-webkit-transform: translateX(0);/* transform: Aplica una o varias funciones de transformación sobre un elemento y translateX:Traslada el elemento una distancia de Tamaño x horizontalmente no se mueve el elemento*/
 }
 
 /*before crea un pseudo-elemento que es el primer hijo del elemento ... contenido estético a un elemento, usando la propiedad content. ... doble dos puntos) para diferenciar pseudo-clases con pseudo-elementos* y content es obligado para la pseudoclase*/
